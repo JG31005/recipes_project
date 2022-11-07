@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(170, 38, 38, 0.562);
+}
+h1, h3 {
+    text-align: center;
+    background-color: rgba(170, 38, 38, 0.562);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 300px;
+}
+ul {
+    text-align: center;
+    background-color: rgba(170, 38, 38, 0.562);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    size: 200%;
+}
